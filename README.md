@@ -1,0 +1,1 @@
+# MySQL-Temel-ve-leri-Seviye-Konular
